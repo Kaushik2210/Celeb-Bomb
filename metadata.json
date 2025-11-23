@@ -1,0 +1,5 @@
+{
+  "name": "CelebBomb - AI Photobomber",
+  "description": "Upload your photo and let AI seamlessly add a random celebrity to your scene using the advanced Gemini Nano Banana Pro model.",
+  "requestFramePermissions": []
+}
